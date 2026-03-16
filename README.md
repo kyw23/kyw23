@@ -1,6 +1,7 @@
 <!-- Satellite style banner -->
+
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_Map_Blank.svg" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001219,50:005f73,100:0a9396&height=230&section=header&text=Yaowen%20Kou&fontSize=42&fontColor=ffffff&desc=Geospatial%20Analysis%20%7C%20Remote%20Sensing%20%7C%20Python&descSize=18"/>
 </p>
 
 <p align="center">
@@ -14,12 +15,6 @@
 Agricultural Geography · Remote Sensing · Geospatial Analysis
 
 Research and experiments related to **Earth observation data**, **spatial analysis**, and **Python-based geospatial workflows**.
-
----
-
-# 🗺 Geospatial Workflow
-
-Typical workflow used in geospatial analysis and remote sensing experiments.
 
 ---
 

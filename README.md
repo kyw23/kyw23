@@ -7,6 +7,10 @@
 🛰 Earth Observation · 🗺 Spatial Analysis · 🌏 Agricultural Geography
 </p>
 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_Map_Blank.svg" width="850">
+</p>
+
 ---
 
 # 🛰 寇耀文 | Yaowen Kou
@@ -48,49 +52,6 @@ These tools are commonly used for:
 - terrain analysis  
 - geospatial visualization  
 - cloud-based remote sensing workflows  
-
----
-
-# 🌍 Remote Sensing & Terrain Analysis
-
-Experiments and workflows may involve topics such as:
-
-- DEM terrain factor extraction  
-- remote sensing data processing  
-- environmental variable construction  
-- spatial data preprocessing  
-
-
----
-
-# 🌾 Species Distribution Modeling
-
-Spatial modeling experiments may include **Maximum Entropy (MaxEnt)** models.
-
-
-Applications include:
-
-- species distribution analysis  
-- ecological niche modeling  
-- crop suitability prediction  
-
----
-
-# 🗂 Repository Topics
-
-Repositories may include experiments and workflows related to:
-
-- Google Earth Engine workflows  
-- Python geospatial analysis  
-- terrain analysis pipelines  
-- remote sensing visualization  
-- spatial modeling experiments  
-
----
-
-# 🌏 Geospatial Learning
-
-Geospatial workflows and programming approaches inspired by modern **open geospatial** and **Earth observation** communities.
 
 ---
 

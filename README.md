@@ -18,34 +18,6 @@ Research and experiments related to **Earth observation data**, **spatial analys
 
 ---
 
-# 🛰 Python Geospatial Stack
-
-## Core Environment
-
-- Python  
-- Jupyter Notebook  
-- Conda  
-
-## Geospatial Libraries
-
-- geemap  
-- leafmap  
-- GeoPandas  
-- Rasterio  
-- rioxarray  
-- xarray  
-- whitebox  
-- GDAL  
-
-These tools are commonly used for:
-
-- raster data processing  
-- terrain analysis  
-- geospatial visualization  
-- cloud-based remote sensing workflows  
-
----
-
 # 📫 Contact
 
 Academic exchange and collaboration are welcome.
